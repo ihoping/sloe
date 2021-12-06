@@ -1,4 +1,4 @@
-package webSole
+package sloe
 
 import (
 	"encoding/json"

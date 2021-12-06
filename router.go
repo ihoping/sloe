@@ -1,4 +1,4 @@
-package webSole
+package sloe
 
 import (
 	"net/http"

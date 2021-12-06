@@ -1,3 +1,3 @@
-package webSole
+package sloe
 
 //TODO

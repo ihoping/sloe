@@ -1,1 +1,1 @@
-module "webSloe"
+module sloe
