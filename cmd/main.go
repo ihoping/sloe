@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/ihoping/sloe"
 	"net/http"
-	"sloe"
 )
 
 func main() {

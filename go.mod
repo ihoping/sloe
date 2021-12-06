@@ -1,1 +1,1 @@
-module sloe
+module github.com/ihoping/sloe
